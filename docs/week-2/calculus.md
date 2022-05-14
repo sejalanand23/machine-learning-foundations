@@ -31,7 +31,7 @@ $\lVert u \rVert = \sqrt{x^2+y^2}$
 The linear approximation of a function $f(x)$ at point $a$ is given as:
 
 $$
-⁍
+L(x) = f(a) + f'(a)(x-a)
 $$
 
 ### Linear approximation of multivariate functions
